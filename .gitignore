@@ -1,0 +1,68 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Environment files (NEVER commit these)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Local database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+*.pid
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+.eslintcache
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Misc
+.vercel
+.cache
+coverage/
+htmlcov/
+dist/
+.turbo/
+.swc/
+*.tmp
+*.temp
+*.bak
