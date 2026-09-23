@@ -22,9 +22,9 @@
 
 | Resource | Link | Description |
 |----------|------|-------------|
-| 🎥 **Demo Video (4 min)** | `[Insert YouTube Link]` | Complete end-to-end prototype walkthrough |
+| 🎥 **Demo Video (4 min)** | `https://youtu.be/n5_9pEGGLZM` | Complete end-to-end prototype walkthrough |
 | 📊 **Presentation PPT** | `[Insert PPT Link]` | 6-slide SIH format presentation |
-| 📂 **OneDrive Master Hub** | `[Insert OneDrive Link]` | Trained models (.pt), evaluation scripts, datasets sample, test notebooks, architecture diagrams |
+| 📂 **OneDrive Master Hub** | `https://drive.google.com/drive/folders/1Yn9Uv1oE87bAdHSrRa9jI3YbAkPyULC0?usp=drive_link` | Trained models (.pt), evaluation scripts, datasets sample, test notebooks, architecture diagrams |
 
 > **OneDrive Master Hub contains:**  
 > • Trained PyTorch weights (`model1_rainfall_best.pt`, `model2_inundation_best.pt`)  
